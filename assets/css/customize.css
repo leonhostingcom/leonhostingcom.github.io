@@ -1,0 +1,64 @@
+.privacy_page table {
+  text-align: left;
+  margin: 0 auto;
+  margin-left: 5.4%;
+}
+.privacy_page tr {
+  border-top: 1px solid #dfdfdf;
+  border-bottom: 1px solid #dfdfdf;
+}
+.privacy_page th {
+  background-color: #1360ef !important;
+  font-weight: 500;
+  color: #fff;
+  padding: 10px 20px;
+}
+.privacy_page td {
+  line-height: 1.5;
+  padding: 10px 15px;
+  border: 1px solid #dfdfdf;
+  font-size: 14px;
+}
+.privacy_page tr > td:nth-of-type(1) {
+  width: 30%;
+}
+@media screen and (max-width: 768px) {
+  .privacy_page td {
+    line-height: 2;
+    padding-bottom: 30px;
+  }
+}
+/* ========== privacy =========== */
+.privacy p,
+.about_info p {
+  color: #131313;
+  margin-bottom: 0;
+  font-size: 14px;
+}
+.privacy_ttl {
+  text-align: center;
+  font-size: 22px;
+}
+.dsc_body {
+  padding-left: 20px;
+}
+.auth_details .details {
+  text-align: right;
+}
+.about_info_ttl {
+  border-top: 3px solid blue;
+  border-bottom: 3px solid blue;
+}
+.about_info_body {
+  font-size: 14px;
+}
+.about_info_body .sub_ttl {
+  font-weight: bolder;
+  font-size: 14px;
+}
+.about_info_body .inner_dsc {
+  padding-left: 42px;
+  text-align: justify;
+  box-sizing: border-box;
+  display: inline-block;
+}
