@@ -158,4 +158,19 @@
                hreflang="jp"
                href="https://leonhosting.com/jp/company.html"/>
   </url>
+  <url>
+    <loc>https://leonhosting.com/privacy.html</loc>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="https://leonhosting.com/privacy.html"/>
+    <xhtml:link
+               rel="alternate"
+               hreflang="jp"
+               href="https://leonhosting.com/jp/privacy.html"/>
+    <xhtml:link
+               rel="alternate"
+               hreflang="zn"
+               href="https://leonhosting.com/cn/privacy.html"/>
+  </url>
 </urlset>
