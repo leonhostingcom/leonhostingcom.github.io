@@ -137,21 +137,6 @@
                href="https://leonhosting.com/cn/server.html"/>
   </url>
   <url>
-    <loc>https://leonhosting.com/template.html</loc>
-    <xhtml:link
-               rel="alternate"
-               hreflang="en"
-               href="https://leonhosting.com/template.html"/>
-    <xhtml:link
-               rel="alternate"
-               hreflang="jp"
-               href="https://leonhosting.com/jp/template.html"/>
-    <xhtml:link
-               rel="alternate"
-               hreflang="zn"
-               href="https://leonhosting.com/cn/template.html"/>
-  </url>
-  <url>
     <loc>https://leonhosting.com/jp/company.html</loc>
     <xhtml:link
                rel="alternate"
